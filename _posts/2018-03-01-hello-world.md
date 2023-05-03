@@ -7,10 +7,10 @@ Propiedad antiadherente que mejora la experiencia de corte y reduce el tiempo po
 La caracterización de cada utensilio con un color hace que la identificación sea rápida y efectiva, impidiendo así que se contaminen los cuchillos por equivocación."
 picture: sg-11134201-22100-uyjuqcide2ivfa (1).jpg
 
-label_default: "alice" 
-label_primary: "story"
-label_success: "blog"
-label_info: "personal"
-label_warning: "warning"
-label_danger: "danger"
+label_default: "BEATRIZ" 
+label_primary: "En Linea"
+label_success: ""
+label_info: "Personal"
+label_warning: ""
+label_danger: "Internet"
 ---
