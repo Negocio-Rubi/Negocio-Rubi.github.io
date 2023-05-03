@@ -11,6 +11,6 @@ label_default: "BEATRIZ"
 label_primary: "En Linea"
 label_success: ""
 label_info: "Personal"
-label_warning: ""
-label_danger: "Internet"
+label_warning: "Internet"
+label_danger: ""
 ---
