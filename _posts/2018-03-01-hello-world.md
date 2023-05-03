@@ -1,10 +1,11 @@
 ---
-title: "Alice in Wonderland, part dos"
-description: "'You ought to be ashamed of yourself for asking such a simple question,' added the Gryphon; and then they both sat silent and looked at poor Alice, who felt ready to sink into the earth. At last the Gryphon said to the Mock Turtle, 'Drive on, old fellow! Don't be all day about it!' and he went on in these words:
-'Yes, we went to school in the sea, though you mayn't believe it—'
-'I never said I didn't!' interrupted Alice.
-'You did,' said the Mock Turtle."
-picture: blog1.jpg
+title: "SET DE CUCHILLO"
+description: "Set de cuchillos multiusos para el jamón, pan y otros alimentos que permiten toda clase de cortes especiales. Además, cuenta con tijeras polifuncionales y un pelador de alta calidad.
+El agarre de cada utensilio es sobresaliente por su diseño ergonómico, lo que facilita el corte preciso y reduce cualquier riesgo de accidentes.
+La autenticidad del set se ve reflejada en colores vivos que armonizan con un sinfín de estilos de cocina.
+Propiedad antiadherente que mejora la experiencia de corte y reduce el tiempo posterior de limpieza.
+La caracterización de cada utensilio con un color hace que la identificación sea rápida y efectiva, impidiendo así que se contaminen los cuchillos por equivocación."
+picture: sg-11134201-22100-uyjuqcide2ivfa (1).jpg
 
 label_default: "alice" 
 label_primary: "story"
