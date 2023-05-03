@@ -1,14 +1,13 @@
 ---
-title: "Revolution has begun!"
-description: "'I am bound to Tahiti for more men.'
-'Very good. Let me board you a moment—I come in peace.' With that he leaped from the canoe, swam to the boat; and climbing the gunwale, stood face to face with the captain.
-'Cross your arms, sir; throw back your head. Now, repeat after me. As soon as Steelkilt leaves me, I swear to beach this boat on yonder island, and remain there six days. If I do not, may lightning strike me!'A pretty scholar,' laughed the Lakeman. 'Adios, Senor!' and leaping into the sea, he swam back to his comrades."
+title: "VASOS MOTIVADORES"
+description: "Botella de agua reutilizable de 600litro,  1 litro o de 2 litro con mensajes motivacionales escritos en uno de sus lados. Es muy sencillo, en realidad las botellas motivacionales son simples botellas de agua rellenables pero con la diferencia de que cuentan con mensajes y frases motivadoras impresos en su cubierta.
+Funciona de la siguiente manera, mientras vas bebiendo puedes ver que el nivel del agua baja marcando los diferentes mensajes escritos en tu botella. Además varias de estas botellas también suelen contar con horarios para recordarte cuánta agua ya deberías de haber tomado según la hora que sea."
 picture: blog2.jpg
 
-label_default: "alice" 
-label_primary: "story"
+label_default: "BEATRIZ" 
+label_primary: "En Linea"
 label_success: 
-label_info: "personal"
-label_warning: "warning"
+label_info: "Personal"
+label_warning: "Internet"
 label_danger: 
 ---
